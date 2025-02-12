@@ -18,19 +18,19 @@ Xcode는 공홈 또는 앱 스토어에서 다운을 받을 수 있다.
 
 2. 플랫폼 및 템플릿 선택
 
-- 나타나는 창에서 앱을 실행할 운영체제(iOS, macOS, watchOS등)를 선택한다
+- 나타나는 창에서 앱을 실행할 운영체제(iOS, macOS, watchOS 등)를 선택한다
 
-- 앱 유형을 선택한다(예:Single View App, 게임 증강 현실앱 등)
+- 앱 유형을 선택한다(예: Single View App, 게임 증강 현실앱 등)
 
 ![](https://velog.velcdn.com/images/kimjaewoo522/post/27f6809b-cb43-4d55-a257-390da8096092/image.png)
 
 3. 프로젝트 옵션 입력
-- Produnct name 입력
+- Product Name 입력
 - Organization Identifier 입력
-**_Organization Identifier란?_** : 이 값은 Bundle Identifier(번들 ID) 를 생성하는 데 사용되며, Xcode 프로젝트를 만들 때 필수적으로 입력
-- Organization Nmae입력 or 본인 이름 입력
-- Language : 사용할 프로그래밍언어 입력(Swift or Objective-C)
-- User Interface : SwiftUI, Watchkit, UIKit, AppKit, TVUIKit등 중에 선택
+**_Organization Identifier란?_** : 이 값은 Bundle Identifier(번들 ID)를 생성하는 데 사용되며, Xcode 프로젝트를 만들 때 필수적으로 입력
+- Organization Name 입력 or 본인 이름 입력
+- Language : 사용할 프로그래밍 언어 선택(Swift or Objective-C)
+- User Interface : SwiftUI, Watchkit, UIKit, AppKit, TVUIKit 등 중에 선택
 
 ![](https://velog.velcdn.com/images/kimjaewoo522/post/65913369-02f4-4aaf-a0af-ca779d63a4d1/image.png)
 
@@ -41,18 +41,3 @@ Xcode는 공홈 또는 앱 스토어에서 다운을 받을 수 있다.
 **참고**
 
 - https://developer.apple.com/documentation/xcode/creating-an-xcode-project-for-an-app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
